@@ -1,1 +1,1 @@
-# Fundamentos-da-programacao-com-python-cursoIFSUL
+# Fundamentos-da-programacao-com-python-IFSUL
